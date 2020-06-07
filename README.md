@@ -9,4 +9,4 @@ To be used as a template.
 4. Navigate to the client folder :- `cd client`
 5. Install [npm packages](https://www.npmjs.com/) for the frontend :- `npm i`
 6. Go back to the root folder :- `cd ..`
-7. Start the Application :- `npm run dev
+7. Start the Application :- `npm run dev`
